@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="done_by">Done by</string>
+    <string name="github_com_otabekjumaev">github.com/otashjumaev</string>
+    <string name="mode">Mode</string>
+    <string name="on_off">On</string>
+    <string name="_3">3</string>
+</resources>

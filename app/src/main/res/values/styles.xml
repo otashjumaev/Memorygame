@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="IconStyle">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="IconStyle2">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">3dp</item>
+    </style>
+
+    <style name="IconStyle3">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+
+</resources>
